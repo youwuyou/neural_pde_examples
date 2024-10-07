@@ -1,0 +1,5 @@
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+NeuralPDE = "315f7962-48a3-4962-8226-d0f33b1235f0"
