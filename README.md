@@ -10,7 +10,7 @@ It serves as entertainment purposes. 😇
 
 | Tutorial | Topic | Completed |
 |----------|-------|-----------|
-| Tutorial 03 | PINN Training | ✅ |
+| Tutorial 03 | [PINN Training](./heat_equation.jl) | ✅ |
 | Tutorial 04 | PINNs for Inverse Problems |  |
 | Tutorial 05 | Operator Learning - Fourier Neural Operator |  |
 | Tutorial 06 | Operator Learning - Convolutional Neural Operator |  |
